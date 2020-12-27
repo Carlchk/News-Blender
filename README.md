@@ -1,6 +1,6 @@
 
 # News-Blender
-Last Updated on: 30/5/2020
+Last Updated on: 27/12/2020
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
